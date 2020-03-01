@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Bacon Live Wallpaper</string>
+
+	<string name="wallpaper_description">A live wallpaper so delicious looking, you\'ll want
+		to eat your phone</string>
+
+	<string name="wallpaper_settings">Settings</string>
+
+</resources>

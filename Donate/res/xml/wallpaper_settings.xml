@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orderingFromXml="true" android:title="@string/wallpaper_settings"
+	android:key="wallpaper_settings">
+
+	<com.builtclean.android.preferences.SeekBarPreference
+		android:key="sizzle_duration" android:title="Sizzle Duration"
+		android:defaultValue="5" />
+
+	<ListPreference android:title="Change Sizzle Sound"
+		android:summary="Choose between different sizzle sounds" android:key="sizzle_sound"
+		android:defaultValue="1" android:entries="@array/sizzle_sounds"
+		android:entryValues="@array/sizzle_sound_values" />
+
+</PreferenceScreen>

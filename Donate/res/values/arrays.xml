@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+	<string-array name="bacon_animations">
+		<item>Less Bacon</item>
+		<item>More Bacon</item>
+	</string-array>
+
+	<string-array name="bacon_animation_values">
+		<item>1</item>
+		<item>2</item>
+	</string-array>
+
+	<string-array name="sizzle_sounds">
+		<item>Sizzle #1</item>
+		<item>Sizzle #2</item>
+	</string-array>
+
+	<string-array name="sizzle_sound_values">
+		<item>1</item>
+		<item>2</item>
+	</string-array>
+
+	<string-array name="bacon_animation_1">
+		<item>bacon_s01</item>
+		<item>bacon_s02</item>
+		<item>bacon_s03</item>
+		<item>bacon_s04</item>
+		<item>bacon_s05</item>
+		<item>bacon_s06</item>
+		<item>bacon_s07</item>
+		<item>bacon_s08</item>
+		<item>bacon_s09</item>
+		<item>bacon_s10</item>
+		<item>bacon_s09</item>
+		<item>bacon_s08</item>
+		<item>bacon_s07</item>
+		<item>bacon_s06</item>
+		<item>bacon_s05</item>
+		<item>bacon_s04</item>
+		<item>bacon_s03</item>
+		<item>bacon_s02</item>
+	</string-array>
+
+</resources>

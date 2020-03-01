@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orderingFromXml="true" android:title="@string/wallpaper_settings"
+	android:key="wallpaper_settings">
+
+	<com.builtclean.android.preferences.AdMobPreference
+		android:key="ad" />
+	<Preference android:title="Download Pro Version"
+		android:key="download_pro"
+		android:summary="Download the pro version to remove ads and get more features."></Preference>
+
+	<com.builtclean.android.preferences.SeekBarPreference
+		android:key="sizzle_duration" android:title="Sizzle Duration"
+		android:defaultValue="5" />
+
+	<Preference android:title="Change Sizzle Sound"
+		android:key="download_pro"
+		android:summary="Choose between different sizzle sounds"></Preference>
+
+</PreferenceScreen>
